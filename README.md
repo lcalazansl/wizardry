@@ -1,5 +1,5 @@
 # wizardry
-TL;DR CLI scripts strudies
+TL;DR CLI scripts studies
 
 ## Overview
 Wow that's clarifying!
@@ -10,7 +10,5 @@ Wow that's clarifying!
 
 ## Author
 - Website - [lluz.dev](https://lluz.dev)
-- Frontend Mentor - [@lcalazansl](https://www.frontendmentor.io/profile/lcalazansl)
-
 ## Screenshot
 ![](image_path_here)
