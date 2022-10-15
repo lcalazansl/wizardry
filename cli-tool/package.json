@@ -1,0 +1,24 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "Console game",
+  "homepage": "https://lluz.dev",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/lcalazanl/cli-tool"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.4",
+    "nanospinner": "^1.0.0"
+  }
+}
