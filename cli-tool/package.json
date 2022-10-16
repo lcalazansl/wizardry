@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url":  "https://github.com/lcalazanl/cli-tool"
+    "url": "https://github.com/lcalazanl/cli-tool"
   },
   "main": "index.js",
   "scripts": {

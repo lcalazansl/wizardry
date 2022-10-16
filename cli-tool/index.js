@@ -6,7 +6,7 @@ import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation";
 import gradient from "gradient-string";
 import figlet from "figlet";
-import createSpinner from "nanopinner";
+import createSpinner from "nanospinner";
 
 // console.log('👋 - index')
 // console.log(chalk.bgGreen('👋 - index'));
